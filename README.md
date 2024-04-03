@@ -1,1 +1,1 @@
-# Exploring-the-Harris-Corner-Detection-Algorithm
+# Computer Vision-Harris-Corner-Detection-Algorithm
